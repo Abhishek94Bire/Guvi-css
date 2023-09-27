@@ -1,0 +1,23 @@
+body{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table,th,td{
+    border:1px solid red;
+    text-align:center;
+    padding:5px;
+    font-size:20px;
+}
+
+table{
+    width:70%;
+    box-shadow: 0 0 10px red;
+
+}
+
+/*top,left,right,bottom-*/
+
+#test thead{
+    background-color:aquamarine;
+    color: blue;
+}

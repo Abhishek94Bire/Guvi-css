@@ -1,2 +1,6 @@
-# Guvi-css
-Html/css.
+# guvicss
+
+created a table
+
+and deployed a site
+https://guvisaicsstable.netlify.app/
